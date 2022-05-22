@@ -1,7 +1,3 @@
-# A simple example for a MQTT Subscriber. https://www.youtube.com/watch?v=c_DPKujOmGw
-
-# There are two topics in this project.
-
 import paho.mqtt.client as paho
 import RPi.GPIO as GPIO 
 import sys
