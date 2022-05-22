@@ -12,4 +12,5 @@ Installation steps are given below.
 
 ```
 sudo apt update
+sudo apt upgrade 
 ```
