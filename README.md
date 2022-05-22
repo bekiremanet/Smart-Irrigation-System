@@ -54,4 +54,5 @@ gh repo clone szazo/DHT11_Python
 
 
 
-
+NOTE: Control and follow-up of the processes in the system via PC or mobile. Available on PC with "MQTT.fx" application. 
+One can mention the "MQTTool" application of mobile devices (Android & iOS).
