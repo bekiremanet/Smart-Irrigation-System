@@ -6,6 +6,8 @@ Smart Irrigation System w/MQTT &amp; RPi4.
 In this study, Smart Irrigation system was simulated. MQTT protocol was used in the project. 
 MQTT Broker is built on Raspberry PI.
 
+There are relays for opening and closing the water valves and heat-humidity sensor (DHT11) in the system.
+
 Units that perform Publisher and Subscriber functions are also available on the Raspberry PI.
 
 
