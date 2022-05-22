@@ -47,6 +47,10 @@ Subscribe to "humidity" topic.
 mosquitto_sub -d -t relayStatus
 ```
 
+We have to install this library to be able to use the DHT11 sensor.
+```
+gh repo clone szazo/DHT11_Python
+```
 
 
 
